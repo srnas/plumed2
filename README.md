@@ -6,3 +6,7 @@ To get the official plumed versions, please refer to the repository at http://gi
 Below you can see the content of the local branches. These branches might be merged to official plumed repository as soon as they are ready for production.
 
 * _srnas-master_: This README file.
+
+* _v2.1-openmp_: A branch implementing OpenMP parallelization for a few variables. This branch
+  also contains multiple-time-step integration. It will be merged in the official repository
+  into v2.2.
