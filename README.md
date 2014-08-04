@@ -1,0 +1,8 @@
+This repository contains public branches developed in the srnas group
+at SISSA (see http://srnas.sissa.it)
+
+To get the official plumed versions, please refer to the repository at http://github.com/plumed/plumed2
+
+Below you can see the content of the local branches. These branches might be merged to official plumed repository as soon as they are ready for production.
+
+* _srnas-master_: This README file.
