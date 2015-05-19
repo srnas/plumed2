@@ -10,3 +10,5 @@ Below you can see the content of the local branches. These branches might be mer
 * _v2.1-openmp_: A branch implementing OpenMP parallelization for a few variables. This branch
   also contains multiple-time-step integration. It will be merged in the official repository
   into v2.2.
+
+* _v2.1-metad-targeted_: A branch implementing extra keywords for metadynamics to enable the possibility to converge to a target   distribution and the convergence of non well tempered metadynamics.
